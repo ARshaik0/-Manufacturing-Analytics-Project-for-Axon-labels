@@ -45,6 +45,11 @@ The dataset used in this project contains manufacturing work orders, production 
    Built Power BI dashboard with interactive visuals and drill-downs.
    
    Created Tableau dashboard with parameters, filters, and geographical maps.
+   
+## 🔹 Dashboard 
+
+   ![WhatsApp Image 2025-09-25 at 11 21 01 PM](https://github.com/user-attachments/assets/96cb233a-1889-4d28-802d-554667b48d22)
+
 
 ## 🔹 Project Insights
 
