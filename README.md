@@ -20,9 +20,6 @@ Manufacturing Analytics Project for Axon labels is about to design and develop i
 
 The dataset used in this project contains manufacturing work orders, production details, and rejection reports across departments and machines.
 
-👉 You can access the dataset here:
-
-[Download Dataset](https://github.com/ARshaik0/-Manufacturing-Analytics-Project-for-Axon-labels/blob/main/EXCEL%20DASHBOARD%20MANUFACTURING%20DATA.xlsx)
 
 ## 🔹 Process
 
