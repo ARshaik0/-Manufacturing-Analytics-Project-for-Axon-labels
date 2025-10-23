@@ -61,3 +61,9 @@ The dataset used in this project contains manufacturing work orders, production 
 ## 🔹 Conclusion
 
 This project demonstrates the use of Excel, Power BI, Tableau, and MySQL to build end-to-end BI solutions. The dashboards successfully transform raw manufacturing data into meaningful insights, supporting quality control, cost management, and operational efficiency.
+
+## 👨‍💻 Author
+*Abdul Rahman*  
+Data Analyst | Power BI Developer  
+📧 [arshaik75@gmail.com](mailto:arshaik75@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/-abdul-rahman)
