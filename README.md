@@ -1,4 +1,4 @@
-# -Manufacturing-Analytics-Project-for-Axon-labels
+# Manufacturing-Analytics-Project-for-Axon-labels
 ## 🔹Project Objective
 Manufacturing Analytics Project for Axon labels is about to design and develop interactive dashboards in Excel, Power BI, and Tableau to monitor key manufacturing KPIs. The dashboards provide actionable insights into production efficiency, rejection analysis, cost trends, and delivery performance, helping stakeholders make data-driven decisions.
 
